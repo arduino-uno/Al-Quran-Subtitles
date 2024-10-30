@@ -78,7 +78,8 @@ Al-Quran subtitles using FFMPEG
     -c:a copy ./output/subtitle.mp4
 ```
 
-### Example #7: How to burn subtitles into YouTube video size
+### Example #7: How to burn subtitles into YouTube video size 
+
 Recommended resolution & aspect ratios
 For the default 16:9 aspect ratio, encode at these resolutions:
 
@@ -91,6 +92,9 @@ For the default 16:9 aspect ratio, encode at these resolutions:
  * 360p (SD): 640x360
  * 240p (SD): 426x240
 
+Example: This command converts the video to the resolution of 1920x1080.
+> -video_size 1280:720
+
 ```bash
     ffmpeg -y -i ./videos/muxed.mp4 \
     -sub_charenc UTF-8 \
@@ -100,6 +104,9 @@ For the default 16:9 aspect ratio, encode at these resolutions:
     subtitles=./subtitles/al-fatihah.srt:fontsdir='./fonts':force_style='shadowx=10,shadowcolor=Black,MarginV=100'" \
     -c:a copy ./output/subtitle.mp4
 ```
+
+> [!NOTE]
+> The input video pixel format by Default is set to yuv420p. But you can use the -vf format=yuv420p (or the alias -pix_fmt yuv420p) output option to make sure your output is YUV 4:2:0.
 
 ## Remember:
 
