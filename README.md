@@ -81,8 +81,8 @@ Al-Quran subtitles using FFMPEG
 ### Example #7: How to burn subtitles into YouTube video size 
 
 Recommended resolution & aspect ratios
-For the default 16:9 aspect ratio, encode at these resolutions:
-
+For the default `16:9` aspect ratio, encode at these resolutions:
+```
  * 4320p (8k): 7680x4320
  * 2160p (4K): 3840x2160
  * 1440p (2k): 2560x1440
@@ -91,6 +91,7 @@ For the default 16:9 aspect ratio, encode at these resolutions:
  * 480p (SD): 854x480
  * 360p (SD): 640x360
  * 240p (SD): 426x240
+```
 
 Example: This command converts the video to the resolution of 1920x1080.
 `-video_size 1280:720`
@@ -106,7 +107,7 @@ Example: This command converts the video to the resolution of 1920x1080.
 ```
 
 > [!NOTE]
-> The input video pixel format by Default is set to `yuv420p`. But you can use the `-vf format=yuv420p` (or the alias `-pix_fmt yuv420p`) output option to make sure your output is YUV 4:2:0.
+> The input video pixel format by Default is set to `yuv420p`. But you can use the `-vf format=yuv420p` (or the alias `-pix_fmt yuv420p`) output option to make sure your output is `YUV 4:2:0`.
 
 ## Remember:
 
