@@ -93,7 +93,7 @@ For the default 16:9 aspect ratio, encode at these resolutions:
  * 240p (SD): 426x240
 
 Example: This command converts the video to the resolution of 1920x1080.
-> -video_size 1280:720
+`-video_size 1280:720`
 
 ```bash
     ffmpeg -y -i ./videos/muxed.mp4 \
@@ -106,7 +106,7 @@ Example: This command converts the video to the resolution of 1920x1080.
 ```
 
 > [!NOTE]
-> The input video pixel format by Default is set to yuv420p. But you can use the -vf format=yuv420p (or the alias -pix_fmt yuv420p) output option to make sure your output is YUV 4:2:0.
+> The input video pixel format by Default is set to `yuv420p`. But you can use the `-vf format=yuv420p` (or the alias `-pix_fmt yuv420p`) output option to make sure your output is YUV 4:2:0.
 
 ## Remember:
 
