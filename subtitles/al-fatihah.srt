@@ -1,0 +1,41 @@
+1
+00:00:00,000 --> 00:00:00,500
+<font size="35px" face="Amiri">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ ۝</font>
+<font size="35px" face="Amiri" color="Yellow"><i>bismillâhir-raḫmânir-raḫîm</i></font>
+<font size="10px" face="Arial" color="Silver">Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.</font>
+
+2
+00:00:00,600 --> 00:00:05,900
+<font size="35px" face="Amiri">اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ ۝</font>
+<font size="35px" face="Amiri" color="Yellow"><i>Al-ḥamdu lillāhi rabbil-‘ālamīn(a)</i></font>
+<font size="10px" face="Arial" color="Silver">Segala puji bagi Allah, Tuhan semesta alam</font>
+
+3
+00:00:06,900 --> 00:00:11,900
+<font size="35px" face="Amiri">الرَّحْمٰنِ الرَّحِيْمِۙ ۝</font>
+<font size="35px" face="Amiri" color="Yellow"><i>ar-raḫmânir-raḫîm</i></font>
+<font size="10px" face="Arial" color="Silver">Yang Maha Pengasih lagi Maha Penyayang,</font>
+
+4
+00:00:13,000 --> 00:00:17,000
+<font size="35px" face="Amiri">مٰلِكِ يَوْمِ الدِّيْنِۗ ۝</font>
+<font size="35px" face="Amiri" color="Yellow"><i>mâliki yaumid-dîn</i></font>
+<font size="10px" face="Arial" color="Silver">Pemilik hari Pembalasan.</font>   
+
+5
+00:00:18,900 --> 00:00:25,000
+<font size="35px" face="Amiri">اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ ۝</font>
+<font size="35px" face="Amiri" color="Yellow"><i>iyyâka na‘budu wa iyyâka nasta‘în</i></font>
+<font size="10px" face="Arial" color="Silver">Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan.</font>   
+
+6
+00:00:25,900 --> 00:00:28,000
+<font size="35px" face="Amiri">اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ ۝</font>
+<font size="35px" face="Amiri" color="Yellow"><i>Ihdinaṣ-ṣirāṭal-mustaqīm(a)</i></font>
+<font size="10px" face="Arial" color="Silver">Bimbinglah kami ke jalan yang lurus,</font>
+
+7
+00:00:28,900 --> 00:00:48,900
+<font size="35px" face="Amiri">صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَࣖ ۝</font>
+<font size="35px" face="Amiri" color="Yellow"><i>Ṣirāṭal-lażīna an‘amta ‘alaihim, gairil-magḍūbi ‘alaihim wa laḍ-ḍāllīn(a)</i></font>
+<font size="10px" face="Arial" color="Silver">(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.</font>
