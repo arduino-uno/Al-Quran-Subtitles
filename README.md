@@ -78,7 +78,7 @@ Al-Quran subtitles using FFMPEG
     -c:a copy ./output/subtitle.mp4
 ```
 
-### Example #7: How to burn subtitles into YouTube video size 
+### Example #8: How to burn subtitles into YouTube video size 
 
 Recommended resolution & aspect ratios
 For the default `16:9` aspect ratio, encode at these resolutions:
